@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelManager", "ConcurrentTesting\LabelManager.csproj", "{D0D325AA-4B33-4177-8DAC-85A3A21731DA}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LabelManagerTests", "LabelManagerTests\LabelManagerTests.fsproj", "{F4B42C1B-7C4F-44C3-9470-EFDCC494F02A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D325AA-4B33-4177-8DAC-85A3A21731DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D325AA-4B33-4177-8DAC-85A3A21731DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D325AA-4B33-4177-8DAC-85A3A21731DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D325AA-4B33-4177-8DAC-85A3A21731DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B42C1B-7C4F-44C3-9470-EFDCC494F02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B42C1B-7C4F-44C3-9470-EFDCC494F02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B42C1B-7C4F-44C3-9470-EFDCC494F02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B42C1B-7C4F-44C3-9470-EFDCC494F02A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
